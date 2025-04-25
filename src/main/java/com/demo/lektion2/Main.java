@@ -6,7 +6,9 @@ public class Main {
         // Programming Principles / Design Principles
         // TODO - DRY, KISS, YAGNI
 
-        // TODO - 10:10 Fortsätter vi! :)
+        // TODO - 11:13 Fortsätter vi! :)
+
+
 
     }
 }
